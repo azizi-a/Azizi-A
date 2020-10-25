@@ -1,5 +1,5 @@
 ### Who am I?
-I'm an ex physics teacher excited about science, code and people. I have a knack for problem solving and enjoy working with nerds of all varieties.
+I'm an ex physics teacher excited about science, code and people.
 
 After four years of teaching and one of travel I decided to look for a new career where I could better use my problem-solving skills and affinity for technical understanding. Throughout my theoretical physics degree I found the experience of solving problems with code to be one of the most rewarding aspects of study. I decided to develop that by learning full stack JavaScript development with Founders and Coders and here I am.
 
